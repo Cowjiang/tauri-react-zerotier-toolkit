@@ -1,0 +1,13 @@
+{
+  "main": "index.html",
+  "logo": "lab.png",
+  "features": [
+    {
+      "code": "ZeroTier",
+      "explain": "管理ZeroTier",
+      "cmds": [
+        "zerotier"
+      ]
+    }
+  ]
+}
